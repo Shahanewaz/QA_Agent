@@ -1,0 +1,4 @@
+Title: Regularization (mathematics)
+Source: Wikipedia
+
+In mathematics, statistics, finance, and computer science, particularly in machine learning and inverse problems, regularization is a process that converts the answer to a problem to a simpler one. It is often used in solving ill-posed problems or to prevent overfitting.

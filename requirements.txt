@@ -1,0 +1,9 @@
+openai>=1.0.0
+anthropic
+google-genai
+python-Levenshtein>=0.12.0
+requests
+beautifulsoup4
+lxml
+tqdm
+pandas

@@ -1,0 +1,22 @@
+{
+  "tcp": {
+    "type": "protocol",
+    "domain": "networking",
+    "description": "Transmission Control Protocol ensures reliable data transmission."
+  },
+  "diabetes": {
+    "type": "disease",
+    "domain": "healthcare",
+    "description": "A chronic condition affecting how the body processes blood sugar."
+  },
+  "phishing": {
+    "type": "attack",
+    "domain": "cybersecurity",
+    "description": "A social engineering attack used to steal sensitive information."
+  },
+  "neural network": {
+    "type": "model",
+    "domain": "machine_learning",
+    "description": "A computational model inspired by the human brain."
+  }
+}

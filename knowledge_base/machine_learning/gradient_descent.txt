@@ -1,0 +1,4 @@
+Title: Gradient descent
+Source: Wikipedia
+
+Gradient descent is a method for unconstrained mathematical optimization. It is a first-order iterative algorithm for minimizing a differentiable multivariate function.

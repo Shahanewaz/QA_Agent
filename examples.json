@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is TCP?",
+    "answer": "TCP is a transport layer protocol that ensures reliable data transmission."
+  },
+  {
+    "question": "What is overfitting?",
+    "answer": "Overfitting occurs when a model learns training data too closely and fails to generalize."
+  },
+  {
+    "question": "What is phishing?",
+    "answer": "Phishing is a cyber attack that tricks users into revealing sensitive information."
+  },
+  {
+    "question": "What is diabetes?",
+    "answer": "Diabetes is a chronic condition affecting blood sugar regulation."
+  }
+]

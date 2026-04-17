@@ -1,0 +1,5 @@
+Topic: asthma
+Source: PubMed
+Article Title: Understanding the immunology of asthma: Pathophysiology, biomarkers, and treatments for asthma endotypes.
+
+Asthma is a common disease in paediatrics and adults with a significant morbidity, mortality, and financial burden worldwide. Asthma is now recognized as a heterogeneous disease and emerging clinical and laboratory research has elucidated understanding of asthma's underlying immunology. The future of asthma is classifying asthma by endotype through connecting discernible characteristics with immunological mechanisms. This comprehensive review of the immunology of asthma details the currently known pathophysiology and clinical practice biomarkers in addition to forefront biologic and targeted therapies for all of the asthma endotypes. By understanding the immunology of asthma, practitioners will be able to diagnose patients by asthma endotype and provide personalized, biomarker-driven treatments to effectively control patients' asthma.

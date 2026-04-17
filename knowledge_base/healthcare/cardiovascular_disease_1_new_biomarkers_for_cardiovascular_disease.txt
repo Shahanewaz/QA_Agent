@@ -1,0 +1,5 @@
+Topic: cardiovascular disease
+Source: PubMed
+Article Title: New Biomarkers for Cardiovascular Disease.
+
+Cardiovascular disease is the leading cause of death and disability worldwide. Early detection and treatment of cardiovascular disease are crucial for patient survival and long-term health. Despite advances in cardiovascular disease biomarkers, the prevalence of cardiovascular disease continues to increase worldwide as the global population ages. To address this problem, novel biomarkers that are more sensitive and specific to cardiovascular diseases must be developed and incorporated into clinical practice. Exosomes are promising biomarkers for cardiovascular disease. These small vesicles are produced and released into body fluids by all cells and carry specific information that can be correlated with disease progression. This article reviews the advantages and limitations of existing biomarkers for cardiovascular disease, such as cardiac troponin and cytokines, and discusses recent evidence suggesting the promise of exosomes as cardiovascular disease biomarkers.

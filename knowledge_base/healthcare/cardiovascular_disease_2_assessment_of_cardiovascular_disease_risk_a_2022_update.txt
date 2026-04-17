@@ -1,0 +1,5 @@
+Topic: cardiovascular disease
+Source: PubMed
+Article Title: Assessment of Cardiovascular Disease Risk: A 2022 Update.
+
+Assessment of atherosclerotic cardiovascular disease (ASCVD) risk is the cornerstone of primary ASCVD prevention, enabling targeted use of the most aggressive therapies in those most likely to benefit, while guiding a conservative approach in those who are low risk. ASCVD risk assessment begins with the use of a traditional 10-year risk calculator, with further refinement through the consideration of risk-enhancing factors (particularly lipoprotein(a)) and subclinical atherosclerosis testing (particularly coronary artery calcium (CAC) testing). In this review, we summarize the current field of ASCVD risk assessment in primary prevention and highlight new guidelines from the Endocrine Society.
