@@ -9,5 +9,5 @@ Notes:
 - prompts.py contains all prompt/message-building logic
 - qa_agent.py contains the controller logic
 - tools.py contains required tools
-- memory_store.py handles persistent memory in memory.json
+- memory_store.py handles persistent memory 
 - config.py supports openai, azure, anthropic, and gemini
