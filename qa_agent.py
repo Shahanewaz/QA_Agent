@@ -113,7 +113,8 @@ class QAAgent:
                         model = self.config["model"],
                         messages = messages,
                         temperature = temperature,
-                        max_tokens = max_tokens,
+                        # max_tokens = max_tokens,
+                        max_completion_tokens = max_tokens,
                         top_p = 1,
                     )
                     return response.choices[0].message.content.strip()
