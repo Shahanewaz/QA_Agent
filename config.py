@@ -6,7 +6,7 @@ LLM_CONFIG = {
     "model": "gpt-4o",
 
     # Shared generation defaults
-    "temperature": 0.2,
+    "temperature": 0,
     "max_tokens": 800,
     "planner_max_tokens": 250,
     "retrieval_max_tokens": 300,
