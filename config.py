@@ -1,5 +1,5 @@
 LLM_CONFIG = {
-    # Supported providers: "openai", "azure", "anthropic", "gemini"
+    # Supported providers: "openai", "azure", "anthropic", "gemini", "ollama"
     "provider": "openai",
 
     # Model name for the selected provider
@@ -38,4 +38,7 @@ LLM_CONFIG = {
 
     # Gemini
     "gemini_api_key": "YOUR_GEMINI_API_KEY",
+
+    # Ollama
+    "ollama_host": "http://127.0.0.1:11434"
 }
