@@ -1,9 +1,10 @@
 LLM_CONFIG = {
     # Supported providers: "openai", "azure", "anthropic", "gemini", "ollama"
-    "provider": "openai",
+    "provider": "ollama",
 
     # Model name for the selected provider
-    "model": "gpt-4o",
+    # "model": "gpt-5.4-mini",
+    "model": "phi3:3.8b",
 
     # Shared generation defaults
     "temperature": 0,
@@ -19,15 +20,32 @@ LLM_CONFIG = {
 
     # Memory settings
     "memory_max_size": 100,
+    
+    # Phase 1 attack settings
+    "attack_target_option": "C",
+    "attack_num_examples": 5,
+    "attack_random_seed": 42,
+    
+    # Phase 2 attack settings
+    "phase2_max_retries": 1,
+    "phase2_save_full_interaction": True,
+    
+    # Phase 3 attack settings
+    "phase3_target_bias": 2.0,
+    "phase3_score_max": 10.0,
+    "phase3_save_full_reasoning": True,
+    
+    # Overall structure
+    "phase_order": ["phase3", "phase2"],
 
     # Dataset / KB settings
     # Allowed examples: "healthcare", "cybersecurity", "machine_learning", "networking"
-    "kb_category": "healthcare",
-    "input_csv_name": "train.csv",
+    "kb_category": "networking",
+    "input_csv_name": "dataset.csv",
 
     # OpenAI
     "openai_api_key": "YOUR_OPENAI_API_KEY",
-
+    
     # Azure OpenAI
     "azure_api_key": "YOUR_AZURE_API_KEY",
     "azure_base_url": "https://YOUR-RESOURCE.openai.azure.com/",
